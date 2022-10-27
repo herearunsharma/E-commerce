@@ -18,7 +18,7 @@ const HeroSection = ({ myData }) => {
               animi! Suscipit sapiente.
             </p>
             <NavLink>
-              <Button>SHOW now</Button>
+              <Button>Shop now</Button>
             </NavLink>
           </div>
           {/* our homepage image  */}
